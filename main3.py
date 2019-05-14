@@ -1,7 +1,7 @@
-a=str(input())
+e=str(input())
 mylist = ['a','e','i','o','u']
-a.lower()
-if(a in mylist):
+e.lower()
+if(e in mylist):
  print("Vowel")
 else:
  print("Consonant")
