@@ -1,5 +1,5 @@
 e=int(input())
 if e % 2 == 0:
- print("even")
+ print("Positive")
 else:
- print("odd")
+ print("Zero")
