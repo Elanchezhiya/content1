@@ -1,5 +1,5 @@
 e=int(input())
-if e % 2 == 0:
+if e > 0:
  print("Positive")
 else:
  print("Zero")
