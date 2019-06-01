@@ -1,2 +1,2 @@
-o=int(input())
-print(o+1)
+ot=int(input())
+print(ot+1)
