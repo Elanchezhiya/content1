@@ -1,0 +1,2 @@
+el=input()
+print(el)
